@@ -27,8 +27,8 @@
         "scripts": ["background.js"]
     },
     "icons": {
-        "64": "images/RemindIt64.png",
-        "32": "images/RemindIt32.png",
+        "64": "images/icon.png",
+        "32": "images/icon-32px.png",
         "16": "images/icon-16px.png"
     }
 }
